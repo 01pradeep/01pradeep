@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @01pradeep padeliya
+- 👋 Hi, I’m @01pradeep
 - 👀 I’m interested in ... Web development and data science. 
 - 🌱 I’m currently learning ... Html, css, java script
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Any useful, learning projects
 - 📫 How to reach me ... Pk1692635@gmail.com
 
 <!---
