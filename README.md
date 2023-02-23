@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @01pradeep
 - 👀 I'm Power bi developer ...
-- 🌱 I’m currently learning  ... Sql
-- 💞️ I’m looking to collaborate on ... learning projects.
+- 🌱 I’m currently finding jobs ...
+- 💞️ I’m looking to collaborate on ... working on projects.
 - 📫 How to reach me ... Pk1692635@gmail.com
 
 <!---
